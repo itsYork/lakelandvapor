@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: /cart/
+Disallow: /admin/
+Sitemap: https://lakelandvapor.com/sitemap.xml
